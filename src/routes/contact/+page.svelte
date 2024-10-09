@@ -229,7 +229,7 @@ let vCard = false;
           Gmail
         </h5>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 leading-tight">
-          Compose an Email to My Email Address
+          Compose an Email to My Gmail Address
         </p>
       </Card>
     </div>
