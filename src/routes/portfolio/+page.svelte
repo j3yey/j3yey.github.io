@@ -23,7 +23,7 @@ function prev() {
   </script>
   
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&family=Roboto:wght@400;700&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&family=Roboto:wght@400;700&display=swap');
 
    
     .welcome-container {
@@ -84,15 +84,6 @@ function prev() {
       padding: 15px 25px;
       border-radius: 10px;
       box-shadow: 0 2px 4px rgb(236, 235, 235);
-    }
-  
-    .carousel-controls {
-      position: absolute;
-      top: 50%;
-      width: 100%;
-      display: flex;
-      justify-content: space-between;
-      transform: translateY(-50%);
     }
   
     .button {
