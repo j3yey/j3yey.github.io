@@ -38,9 +38,8 @@ function prev() {
      position: relative;
    }
 
-  
 
-    .container {
+.container {
   top: 20px;
   max-width: 1200px;
   margin: 20px auto;
@@ -52,10 +51,7 @@ function prev() {
   animation: ultraCoolFadeIn 1s cubic-bezier(0.68, -0.55, 0.27, 1.55); /* Apply the ultraCoolFadeIn animation */
 }
 
-.dark .container {
-  background: linear-gradient(135deg, rgba(50, 50, 50, 0.8), rgba(40, 40, 40, 0.8));
-  box-shadow: 0 12px 24px rgba(255, 255, 255, 0.4); /* White shadow for dark mode */
-}
+
 
 /* Add hover effect */
 .container:hover {
@@ -67,9 +63,6 @@ function prev() {
       max-width: 100%;
       margin: 0 auto;
       overflow: hidden;
-      
-     
-
     }
   
     .carousel-image {
@@ -91,11 +84,6 @@ function prev() {
       padding: 15px 25px;
       border-radius: 10px;
       box-shadow: 0 2px 4px rgb(236, 235, 235);
-    }
-  
-    .dark .carousel-caption {
-      background: rgba(30, 30, 30, 0.8);
-      color: white;
     }
   
     .carousel-controls {

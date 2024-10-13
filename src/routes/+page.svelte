@@ -29,15 +29,7 @@
       background: linear-gradient(135deg, #303233, #282c31);
   }
 
-  .dark {
-      background: linear-gradient(135deg, #303233, #282c31);
-      color: white;
-  }
 
-  .light {
-      background: linear-gradient(135deg, #f0f0f0, #c0c0c0);
-      color: black;
-  }
 
   .welcome-box {
       
