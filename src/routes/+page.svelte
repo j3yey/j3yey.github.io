@@ -3,7 +3,7 @@
 </script>
 
 <div class="welcome-container">
-  <img class="logo" src="/port_logo.png" alt="Logo" />
+  
 
   <div class="welcome-box  bg-gray-800 text-white">
       <h1>Welcome, Users!</h1>
