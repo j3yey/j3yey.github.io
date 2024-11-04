@@ -3,11 +3,10 @@
 </script>
 
 <div class="welcome-container">
-  
+  <img class="logo" src="/port_logo.png" alt="Logo" />
 
   <div class="welcome-box  bg-gray-800 text-white">
-      <h1>Welcome, Users!</h1>
-      <p>I'm John Adrian F. Fontelera, a Bachelor of Science in Information Technology student from Gordon College, and this is my Student Portfolio.</p>
+
       <a href="/portfolio" class="btn-explore  bg-gray-800 text-white">Portfolio</a>
   </div>
 
